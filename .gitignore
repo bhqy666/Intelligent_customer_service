@@ -1,0 +1,80 @@
+# Python忽略项
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 日志文件
+*.log
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+.VENV/
+
+# 环境配置文件
+*.env
+
+# 忽略本地配置文件
+*.local
+
+# pip 安装包
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# 生成的配置文件
+*.ini
+*.cfg
+*.toml
+
+# 后端忽略项
+
+# 数据库文件
+*.sqlite3
+
+# 上传文件
+/uploads/
+
+# Flask 缓存文件
+instance/
+.webassets-cache
+
+# Pytest 缓存
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# Pycharm
+.idea
+# 前端忽略项
+
+# 忽略 node_modules
+node_modules/
+
+# 忽略打包后的文件
+dist/
+build/
+*.bundle.js
+
+# 忽略临时文件
+*.tmp
+*.swp
+
+# Mac 系统文件
+.DS_Store
+
+# Windows 系统文件
+Thumbs.db
+
+# Linux 系统文件
+*~

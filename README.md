@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ### 运行后端
 1. 执行以下命令来克隆项目并初始化和更新子模块：
 ```
-git clone https://github.com/your-username/intelligent-customer-service.git
+git clone https://github.com/bhqy666/Intelligent_customer_service
 cd intelligent-customer-service
 git submodule update --init --recursive
 ```
