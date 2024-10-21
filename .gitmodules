@@ -1,0 +1,6 @@
+[submodule "backend/whisper"]
+	path = backend/whisper
+	url = https://github.com/openai/whisper
+[submodule "frontend/open-webui"]
+	path = frontend/open-webui
+	url = https://github.com/open-webui/open-webui
